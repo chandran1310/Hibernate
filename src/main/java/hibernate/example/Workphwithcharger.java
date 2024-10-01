@@ -22,7 +22,7 @@ public class Workphwithcharger
 		
 
 //		
-//		et.begin();
+//		
 //		em.persist(charger);
 //		em.persist(phone);
 //		et.commit();
